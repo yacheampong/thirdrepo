@@ -1,3 +1,5 @@
 learning git
 
 making first changes
+
+making second changes
